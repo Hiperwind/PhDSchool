@@ -16,11 +16,13 @@ celluloid==0.2.0
 certifi==2023.7.22
 cffi==1.15.1
 cftime==1.6.2
+chaospy==4.3.13
 charset-normalizer==3.2.0
 cloudpickle==2.2.1
 colorama==0.4.6
 comm==0.1.4
 contourpy==1.1.0
+copulogram==0.0.4
 cycler==0.11.0
 debugpy==1.6.7.post1
 decorator==5.1.1
@@ -42,6 +44,7 @@ h5netcdf==1.2.0
 h5py==3.9.0
 hipersim==0.1.1
 idna==3.4
+importlib-metadata==6.8.0
 ipykernel==6.25.1
 ipython==8.14.0
 isoduration==20.11.0
@@ -79,10 +82,12 @@ networkx==3.1
 notebook==7.0.2
 notebook_shim==0.2.3
 numba==0.57.1
+numpoly==1.2.11
 numpy==1.24.3
 oauthlib==3.2.2
 openturns==1.21
 opt-einsum==3.3.0
+otkerneldesign==0.1.4
 overrides==7.4.0
 packaging==23.1
 pandas==2.0.3
@@ -148,3 +153,4 @@ websocket-client==1.6.1
 Werkzeug==2.3.7
 wrapt==1.15.0
 xarray==2023.7.0
+zipp==3.16.2
