@@ -4,7 +4,7 @@ The first row labels the columns. Each row represents 1 aero-elastic simulation.
 
 1) Average Wind Speed [m/s]
 2) Standard Deviation of Stream-wise Velocity [m/s]
-3) Alpha
+3) Alpha, Shear Exponent [-]
 4) Significant Wave Height [m]
 5) Wave Period [s]
 6) Air density [kg/m3]
