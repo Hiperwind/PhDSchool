@@ -1,4 +1,4 @@
-# Hiperwind PhD 2023 Summer School
+# HIPERWIND PhD 2023 Summer School
 
 ## Cloning the repository
 You can simply clone the repo via git: 
