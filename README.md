@@ -31,8 +31,16 @@ conda activate hiperwind
 source /path_to_new_virtual_environment/bin/activate
 ```
 
-## Main tutorials
+## Slides
 
-## Exercises
+The slides are available [here](/slides/).
 
-## Group project
+## Exercises and tutorials
+The exercises and tutorials are available [here](/exercises/).
+
+## Project
+A template containing all instructions necessary for the project is available [here](/project/). You can complete the project at your own pace, though we suggest the following timeframe:
+* Day 1: Intro, installation of the Python environment, data visualization.
+* Day 2: Environmental data fitting.
+* Day 3: Surrogate model construction and testing.
+* Day 4: Limit state definition and reliability estimation.
